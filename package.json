@@ -18,6 +18,6 @@
   "homepage": "https://github.com/grebre0/test#readme",
   "dependencies": {
     "redux": "^3.6.0",
-    "lorem_ipsum_lorem_ipsum": "1.1.1"
+    "reduxbroken": "^3.6.0"
   }
 }
