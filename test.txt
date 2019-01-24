@@ -1,3 +1,2 @@
 lorem ipsum from master from issue
 feature
-feature2
